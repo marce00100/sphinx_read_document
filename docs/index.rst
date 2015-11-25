@@ -14,6 +14,7 @@ Contents:
    documento1
 
    prueba.rst
+   instalador
 
 
 Indices and tables
