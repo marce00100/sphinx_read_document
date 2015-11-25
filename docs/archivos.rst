@@ -6,7 +6,7 @@ I Archivo
 
 Sphinx es una distribución de Python, para instalarlo es necesario tener Python, este ya viene instalado en las distribuciones de Linux.
 
-Instalacion de librerias Python
+AAAAAXXXXX-8888
 -------------------------------
 
 Para instalar el repositorio de librerias de python se debe realizar:
@@ -17,7 +17,7 @@ Luego para instalar Sphinx se realiza mediante el siguiente comando
 
     $ easy_install sphinx
 
-Creacion de proyecto sphinx
+Conclusion
 ---------------------------
 Para crear un proyecto Sphinx se debe ingresar a la carpeta donde estaran los documentos en formato .rst (restucturedText) y se genera el proyecto mediante la siguiente orden:
 
